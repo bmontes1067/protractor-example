@@ -1,0 +1,10 @@
+{
+  "name": "protractor-example",
+  "version": "0.0.1",
+  "author": "Belen Montes <bmontes1067@gmail.com>",
+  "description": "An example Protractor test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmontes1067/protractor-example"
+  }
+}
